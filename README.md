@@ -14,7 +14,7 @@ Project Track:
 
 ## Files that run the models
 
-The following scripts need the installation of a `MATLAB` environment, along with the `Machine Learning and Statistical Toolbox` and `Parallel Computation Toolbox` extensions:
+The following scripts need the installation of a `MATLAB` environment, along with the `Statistics and Machine Learning Toolbox` and `Parallel Computing Toolbox` extensions:
 
 <br>
 
