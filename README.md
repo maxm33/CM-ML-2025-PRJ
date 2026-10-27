@@ -50,6 +50,8 @@ The grid search files have multiple uses:
 
 - can be used to retrain a saved model later, or simply reproduce the run of a model in a deterministic way, allowing consistent results for our experiments.
 
+<br> 
+
 ## SubgradientGridSearch
 
 ```
@@ -69,6 +71,8 @@ where:
 <br>
 
 - `fold_bool`: used for Cross-Validation in ML project, fix to 0.
+
+<br>
 
 ## HeavyBallGridSearch
 
